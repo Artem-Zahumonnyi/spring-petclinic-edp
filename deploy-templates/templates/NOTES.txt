@@ -1,0 +1,1 @@
+1. Application spring-petclinic-edp has been successfully deployed!!
